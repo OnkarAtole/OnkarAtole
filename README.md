@@ -30,15 +30,7 @@ Passionate about building seamless user experiences and crafting scalable applic
 
 ---
 
-### 🔥 Current Activity
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=OnkarAtole&theme=github-dark&hide_border=true"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OnkarAtole&theme=github-dark&hide_border=true"/>
-
-</div>
 
 ### 🌱 Currently
 
