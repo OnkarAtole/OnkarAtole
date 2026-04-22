@@ -33,7 +33,7 @@ Passionate about building seamless user experiences and crafting scalable applic
 
 - 📚 Learning: **Deepening my knowledge in cloud technologies **
 - 🤝 Open to collaborate on: **Open-source projects, web applications, and innovative tech solutions.**
-- 💬 Ask me about: **JavaScript frameworks, building RESTful APIs, or best practices in UI/UX design.**
+
 
 ---
 
